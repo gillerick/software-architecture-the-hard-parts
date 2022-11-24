@@ -7,3 +7,11 @@ book [Software Architecture: The Hard Parts](https://www.oreilly.com/library/vie
 _Modern Trade-Off Analyses for Distributed Architectures_ by Neal Ford, Mark Richards, Pramod Sadalage & Zhamak Dehghani
 
 ## Introduction
+
+https://www.atlassian.com/incident-management/kpis/common-metrics
+
+## References
+
+1. [Compensating Transaction Pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction)
+2. [Idempotency Patterns](https://blog.jonathanoliver.com/idempotency-patterns/)
+3. [Database Refactoring](https://databaserefactoring.com/SplitTable.html)
